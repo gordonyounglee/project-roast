@@ -57,7 +57,7 @@ The mechanical system establishes the airflow path through the roaster and provi
 
 
 ### 2.1 Component Diagram
-![Component Diagram](./images/fluid_bed_design.png)
+![Component Diagram](./images/fluid_bed_design.png){width=75% height=75%} 
 
 **Components**
 - Centrifugal blower
